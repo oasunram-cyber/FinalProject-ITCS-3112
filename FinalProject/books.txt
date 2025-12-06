@@ -1,3 +1,0 @@
-Bug;Frank;false
-Deed;Faith;false
-Goodness;Grace;false
